@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Build files (optional)
+dist/
+build/
+
+# Uploads or user files (optional)
+uploads/
